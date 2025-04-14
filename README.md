@@ -2,9 +2,13 @@
 Angkringan Food adalah sebuah aplikasi desktop berbasis Windows Forms (WinForms) yang dikembangkan dengan bahasa pemrograman C#. Aplikasi ini dibuat untuk mempermudah proses transaksi penjualan makanan pada sebuah usaha kuliner bernama Angkringan Food.
 
 Menyediakan sistem kasir sederhana yang membantu pengguna:
+
 Memilih jenis dan nama makanan
+
 Menghitung total harga pembelian
+
 Menerapkan potongan harga otomatis
+
 Menampilkan detail transaksi
 
 
