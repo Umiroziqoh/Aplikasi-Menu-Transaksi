@@ -1,8 +1,10 @@
 # Aplikasi-Menu-Transaksi
 Angkringan Food adalah sebuah aplikasi desktop berbasis Windows Forms (WinForms) yang dikembangkan dengan bahasa pemrograman C#. Aplikasi ini dibuat untuk mempermudah proses transaksi penjualan makanan pada sebuah usaha kuliner bernama Angkringan Food.
 
- Input Transaksi
-Tanggal Transaksi
+Fitur-Fitur Utama
+
+1. Input Transaksi
+   Tanggal Transaksi
 Menggunakan DateTimePicker agar pengguna dapat memilih tanggal transaksi dengan mudah.
 
 
