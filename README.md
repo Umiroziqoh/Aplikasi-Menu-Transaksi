@@ -5,7 +5,7 @@ Fitur-Fitur Utama
 
 1. Input Transaksi
    * Tanggal Transaksi
-Menggunakan DateTimePicker agar pengguna dapat memilih tanggal transaksi dengan mudah.
+     Menggunakan DateTimePicker agar pengguna dapat memilih tanggal transaksi dengan mudah.
 
 
 
