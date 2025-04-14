@@ -4,8 +4,37 @@ Angkringan Food adalah sebuah aplikasi desktop berbasis Windows Forms (WinForms)
 Fitur-Fitur Utama
 
 1. Input Transaksi
-   * Tanggal Transaksi
+   * Tanggal Transaksi:
      Menggunakan DateTimePicker agar pengguna dapat memilih tanggal transaksi dengan mudah.
+   * No. Nota:
+     Input manual untuk mencatat nomor nota transaksi.
+2. Pemilihan Menu
+   * Jenis Makanan (ComboBox)
+     Menyediakan pilihan kategori: Seafood, Daging, dan Ayam.
+   * Nama Makanan (ComboBox)
+     Otomatis berubah sesuai jenis makanan yang dipilih.
+     Contoh: Jika pilih “Ayam”, maka opsi: Ayam Bakar, Ayam Goreng, dll.
+   * Harga (TextBox)
+     Akan terisi otomatis sesuai pilihan nama makanan.
+   * Jumlah (TextBox)
+    Diisi secara manual oleh pengguna.
+3. Perhitungan Otomatis
+   * Total Harga
+     Dihitung dari harga * jumlah.
+   * Potongan Harga
+     Jika total harga lebih dari 500.000, otomatis potongan sebesar 50.000.
+   * Total Bayar
+     Total harga dikurangi potongan.
+4. Tombol Aksi
+   * HITUNG: Menghitung total harga dan potongan
+   * BERSIH: Mengosongkan seluruh form
+   * KELUAR: Menutup aplikasi
+5. Visual Pendukung
+   * Gambar gerobak angkringan untuk memperkuat nuansa lokal
+   
+     
+     
+     
 
 
 
