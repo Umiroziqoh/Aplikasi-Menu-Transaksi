@@ -30,12 +30,6 @@ Fitur-Fitur Utama
    * BERSIH: Mengosongkan seluruh form
    * KELUAR: Menutup aplikasi
 5. Visual Pendukung
-   * Gambar gerobak angkringan untuk memperkuat nuansa lokal
+   * PicturBox: Gambar gerobak angkringan untuk memperkuat nuansa lokal
    
-     
-     
-     
-
-
-
  ![image alt](https://github.com/Umiroziqoh/Aplikasi-Menu-Transaksi/blob/a1760f62d73bb44c9275eb63ad71de69b890a346/Cuplikan%20layar%202025-04-14%20080952.png)
