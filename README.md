@@ -4,7 +4,7 @@ Angkringan Food adalah sebuah aplikasi desktop berbasis Windows Forms (WinForms)
 Fitur-Fitur Utama
 
 1. Input Transaksi
-   Tanggal Transaksi
+   * Tanggal Transaksi
 Menggunakan DateTimePicker agar pengguna dapat memilih tanggal transaksi dengan mudah.
 
 
