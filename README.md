@@ -3,7 +3,7 @@ Angkringan Food adalah sebuah aplikasi desktop berbasis Windows Forms (WinForms)
 
 Menyediakan sistem kasir sederhana yang membantu pengguna:
 
-Memilih jenis dan nama makanan
+1. Memilih jenis dan nama makanan
 
 Menghitung total harga pembelian
 
