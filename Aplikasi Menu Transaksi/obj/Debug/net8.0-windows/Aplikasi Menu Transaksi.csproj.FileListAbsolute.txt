@@ -1,0 +1,40 @@
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Aplikasi Menu Transaksi.exe
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Aplikasi Menu Transaksi.deps.json
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Aplikasi Menu Transaksi.runtimeconfig.json
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Aplikasi Menu Transaksi.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Aplikasi Menu Transaksi.pdb
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\refint\Aplikasi Menu Transaksi.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.pdb
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\ref\Aplikasi Menu Transaksi.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi_Menu_Transaksi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi Menu Transaksi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi.94170BEC.Up2Date
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi_Menu_Transaksi.Views.Form1.resources
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi_Menu_Transaksi.Views.Login.resources
+C:\Users\ASUS\source\repos\Aplikasi Menu Transaksi\Aplikasi Menu Transaksi\obj\Debug\net8.0-windows\Aplikasi_Menu_Transaksi.Views.Form3.resources
